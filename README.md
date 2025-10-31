@@ -2,3 +2,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragsrinivas72&layout=compact&langs_count=8&theme=tokyonight)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiragsrinivas72&theme=tokyo-night)
+
