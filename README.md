@@ -2,5 +2,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragsrinivas72&layout=compact&langs_count=8&theme=tokyonight)
 
-![Metrics](https://github.com/ChiragChrg/chiragsrinivas72/blob/main/github-metrics.svg)
+![Metrics](https://github.com/chiragsrinivas72/chiragsrinivas72/blob/main/github-metrics.svg)
 
