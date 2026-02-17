@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Srinivas</h1>
-<h3 align="center">Distributed Systems Engineer | Full Stack Developer</h3>
+<h3 align="center">Distributed Systems Engineer | Backend Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chiragsrinivas72&label=Profile%20views&color=0e75b6&style=flat" />
@@ -19,10 +19,18 @@ Focus: Distributed Systems, Algorithms, Web Technologies, Data Management, Game 
 ## 🚀 What I Work On
 
 - ⚙️ Distributed Systems
-- 🗄 Scalable backend architectures
-- ☁️ Cloud-native deployments
-- 📊 Real-time data processing
 - 📱 Full-stack applications
+- 🗄 Scalable backend architectures
+- 📊 Real-time data processing
+- 🎮 Game Development
+- ☁️ Cloud-native deployments
+
+---
+
+## 🚀 Currently Working On
+
+- Distributed Cache Store
+- Distributed Consensus System (Raft)
 
 ---
 
@@ -31,17 +39,17 @@ Focus: Distributed Systems, Algorithms, Web Technologies, Data Management, Game 
 ### 💻 Languages
 C++ • C • Python • JavaScript • TypeScript • Kotlin • SQL
 
-### ⚙️ Distributed & Systems
+### ⚙️ Distributed Systems
 gRPC • Protocol Buffers • POSIX Networking • Multithreading
 
+### 🌐 Backend & Frontend
+React • Node.js • MongoDB • PostgreSQL • Flask • Django
+
 ### ☁️ Cloud & DevOps
-AWS • GCP • Azure • Docker • Kubernetes • Jenkins
+AWS • GCP • Azure • Docker • Kubernetes
 
 ### 📊 Big Data
 Apache Spark • PySpark • Hadoop • HDFS
-
-### 🌐 Backend & Frontend
-Node.js • Dropwizard • Flask • Django • React • MongoDB • PostgreSQL • Cosmos DB
 
 ---
 
